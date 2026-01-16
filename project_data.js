@@ -51,5 +51,17 @@ const galleryData = [
     category: "Ethnic",
     cover: "7_1.jpg",
     images: ["7_1.jpg","7_2.jpg"]
+  },
+  {
+    name: "8",
+    category: "Ethnic",
+    cover: "8_1.jpg",
+    images: ["8_1.jpg"]
+  },
+  {
+    name: "9",
+    category: "Ethnic",
+    cover: "9_1.jpg",
+    images: ["9_1.jpg","9_2.jpg","9_3.jpg","9_4.jpg","9_5.jpg","9_6.jpg"]
   }
 ];
